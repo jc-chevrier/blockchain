@@ -1,0 +1,17 @@
+/**
+ * TP2 - Les transactions.
+ * 
+ * Objectif : implémenter le concept de transaction.
+ */
+
+body {
+    background-color: rgb(220, 220, 220);
+}
+
+.block {
+    background-color: white;
+    border-radius: 5px; 
+    box-shadow: 0 0 5px gray;
+    margin-bottom: 25px;
+    padding: 20px;
+}
